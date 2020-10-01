@@ -1,0 +1,3 @@
+﻿  lab5.cpp
+D:\Code\C++ OR C Projects\lab5\editor.h(10,13): warning C4101: 'matrix': unreferenced local variable
+  lab5.vcxproj -> D:\Code\C++ OR C Projects\lab5\Debug\lab5.exe
